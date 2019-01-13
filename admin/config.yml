@@ -2,7 +2,7 @@ backend:
   name: github
   repo: reymyid/blog
   branch: master
-  site_domain: festive-poincare-70cf3a.netlify.com
+  site_domain: reymyid.github.io/blog
 media_folder: "images/uploads"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
