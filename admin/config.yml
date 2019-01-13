@@ -2,7 +2,7 @@ backend:
   name: github
   repo: reymyid/blog
   branch: master
-  site_domain: reymyid.github.io/blog
+  site_domain: reymyid.github.io
 media_folder: "images/uploads"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
